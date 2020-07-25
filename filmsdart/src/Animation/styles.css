@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bg {
+  position: absolute;
+  top: 63px;
+  left: 0;
+  width: 100vw;
+  height: 700px;
+  background-size: cover;
+  background-position: center;
+  will-change: opacity;
+}
